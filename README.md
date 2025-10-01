@@ -28,7 +28,7 @@ sudo pacman -S python-scapy
 
 ## Static
 
-In the [static directory](./static), you will find program made to be used with network samples (pcapng files).
+In the [static directory](./static), you will find program made to be used with [network samples](./network-samples) (pcapng files). It's best if you don't want to use your own network card and want to test.
 
 ## Exploit
 
